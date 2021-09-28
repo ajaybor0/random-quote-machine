@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://quote-world.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -36,8 +36,8 @@
 
 ## Overview
 
-<img src="assets/screenshot-1.png" alt="Random Quote App Screenshot">
-<img src="assets/screenshot-2.png" alt="Random Quote App Screenshot">
+<img src="assets/Screenshot-1.png" alt="Random Quote App Screenshot">
+<img src="assets/Screenshot-2.png" alt="Random Quote App Screenshot">
 
 ### Built With
 
